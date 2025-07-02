@@ -162,8 +162,6 @@ GitHub: [github.com/ias09](https://github.com/ias09)
 
 ORCID: [0009-0009-5729-7312](https://orcid.org/0009-0009-5729-7312)
 
-Dataset and benchmark inspiration from Yuhua Li (2024). Optimization Strategy of Mixed-Integer Linear Planning in Logistics Distribution. Published in Applied Mathematics and Nonlinear Sciences.
-  DOI: 10.2478/amns-2024-1904
 ---
 
 ## 📜 License
